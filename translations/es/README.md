@@ -11,7 +11,7 @@ es solo un documento: es la base viva de nuestra comunidad y nuestra práctica.
 Nuestro manifiesto está dividido en las siguientes secciones clave, pensadas
 para leerse en orden y así comprender la visión en su totalidad:
 
-I. **[Origen](es/secciones/I-origen.md)**
+I. **[Origen](secciones/I-origen.md)**
 * *De dónde venimos: las raíces de "cultura" y "código".*
 
 II. **[Definición: Qué es culturecode](secciones/II-definición.md)**
