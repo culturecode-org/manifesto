@@ -8,7 +8,7 @@ Creemos que aprender no es consumir más rápido, sino **comprender mejor.**
 Y creemos que toda herramienta o tecnología debe someterse al juicio crítico,
 no al fanatismo ciego.
 
-Por eso, en Culturecode:
+Por eso, en culturecode:
 * Proponemos retos y proyectos bisemanales para **pensar con las manos.**
 * Ofrecemos sesiones en vivo cada semana para explorar tecnologías con **mirada
   crítica y espíritu lúdico.**
